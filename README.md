@@ -1,4 +1,4 @@
-# Laravel Vonage Notification Channel
+# Channel_laravel
 
 <a href="https://github.com/laravel/vonage-notification-channel/actions"><img src="https://github.com/laravel/vonage-notification-channel/workflows/tests/badge.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/vonage-notification-channel"><img src="https://img.shields.io/packagist/dt/laravel/vonage-notification-channel" alt="Total Downloads"></a>
@@ -7,7 +7,7 @@
 
 ## Official Documentation
 
-Documentation for Laravel Vonage Notification Channel can be found on the [Laravel website](https://laravel.com/docs/notifications#sms-notifications).
+Documentation for Channel_laravel can be found on the [Laravel website](https://laravel.com/docs/notifications#sms-notifications).
 
 ## Contributing
 
@@ -23,4 +23,4 @@ Please review [our security policy](https://github.com/laravel/vonage-notificati
 
 ## License
 
-Laravel Vonage Notification Channel is open-sourced software licensed under the [MIT license](LICENSE.md).
+Channel_laravel is open-sourced software licensed under the [MIT license](LICENSE.md).

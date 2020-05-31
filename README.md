@@ -17,10 +17,6 @@ Thank you for considering contributing to Vonage Notification Channel! The contr
 
 In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-## Security Vulnerabilities
-
-Please review [our security policy](https://github.com/laravel/vonage-notification-channel/security/policy) on how to report security vulnerabilities.
-
 ## License
 
 Channel_laravel is open-sourced software licensed under the [MIT license](LICENSE.md).
